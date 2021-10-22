@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mitali\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mitali\\.nuget\\packages"
+    ]
+  }
+}
