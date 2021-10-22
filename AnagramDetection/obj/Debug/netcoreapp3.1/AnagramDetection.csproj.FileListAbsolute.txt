@@ -1,0 +1,14 @@
+C:\Users\Mitali\source\repos\BinarySearch\AnagramDetection\bin\Debug\netcoreapp3.1\AnagramDetection.exe
+C:\Users\Mitali\source\repos\BinarySearch\AnagramDetection\bin\Debug\netcoreapp3.1\AnagramDetection.deps.json
+C:\Users\Mitali\source\repos\BinarySearch\AnagramDetection\bin\Debug\netcoreapp3.1\AnagramDetection.runtimeconfig.json
+C:\Users\Mitali\source\repos\BinarySearch\AnagramDetection\bin\Debug\netcoreapp3.1\AnagramDetection.runtimeconfig.dev.json
+C:\Users\Mitali\source\repos\BinarySearch\AnagramDetection\bin\Debug\netcoreapp3.1\AnagramDetection.dll
+C:\Users\Mitali\source\repos\BinarySearch\AnagramDetection\bin\Debug\netcoreapp3.1\AnagramDetection.pdb
+C:\Users\Mitali\source\repos\BinarySearch\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.csproj.AssemblyReference.cache
+C:\Users\Mitali\source\repos\BinarySearch\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mitali\source\repos\BinarySearch\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.AssemblyInfoInputs.cache
+C:\Users\Mitali\source\repos\BinarySearch\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.AssemblyInfo.cs
+C:\Users\Mitali\source\repos\BinarySearch\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.csproj.CoreCompileInputs.cache
+C:\Users\Mitali\source\repos\BinarySearch\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.dll
+C:\Users\Mitali\source\repos\BinarySearch\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.pdb
+C:\Users\Mitali\source\repos\BinarySearch\AnagramDetection\obj\Debug\netcoreapp3.1\AnagramDetection.genruntimeconfig.cache
